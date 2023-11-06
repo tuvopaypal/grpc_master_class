@@ -50,3 +50,10 @@ alternatively, `make greet`
 
 -   find missing packages
 -   `go mod tidy`
+
+Generate SSL certs:
+
+```
+chmod +x ssl.sh
+./ssl.sh
+```
